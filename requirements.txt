@@ -1,0 +1,7 @@
+transformers == 4.24.0
+langchain == 0.0.169
+numpy == 1.23.3
+spacy ==  3.5.3
+streamlit == 1.23.1
+torch == 1.12.1
+pandas == 1.5.0
