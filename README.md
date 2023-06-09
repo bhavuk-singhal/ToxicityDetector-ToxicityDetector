@@ -1,5 +1,5 @@
-# SmartNER-LLMsforNER
-This project extracts named entites in a zero-shot setup using LLMs.
+# ToxicityDetector
+This project identifies if the toxicity is present in the conversation or not in a zero-shot setup using LLMs.
 
 # Installation
 
@@ -21,5 +21,5 @@ pip install -r requirements.txt
 # Usage
 Run the following command to start the UI server.
 ```sh
-python run st_copy.py
+streamlit run st_copy.py
 ```
