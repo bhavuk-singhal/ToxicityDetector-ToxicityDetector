@@ -1,6 +1,8 @@
 # ToxicityDetector
 This project identifies if the toxicity is present in the conversation or not in a zero-shot setup using LLMs.
 
+https://github.com/bhavuk-singhal/hackfy24-ToxicityDetector/assets/123436135/23752bfe-f6c8-42cf-8071-e498d479117e
+
 # Installation
 
 This code requires [Python 3.9](https://www.python.org/downloads/release/python-3913/) to run.
